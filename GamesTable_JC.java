@@ -1,7 +1,7 @@
 
 /********************************************************************* 
  *  Program: GamesTable_JC.java                                     *
- *  Author:  Javier Carnicer                                         * 
+ *  Author:  javicar31                                      * 
  *  Purpose: take two .txt files and output a table                  *
  *  Date Created: 03/17/2024                                         *
  *  Date Modified: 03/17/2024                                        *
